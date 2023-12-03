@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Rajkumar-Makeup/Rajkumar-Makeup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Reaching to me is preety easy.
 - I'm located in Mumbai!!
--->
+
